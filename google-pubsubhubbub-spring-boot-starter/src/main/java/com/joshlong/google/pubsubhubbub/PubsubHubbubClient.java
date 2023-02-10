@@ -11,7 +11,7 @@ import java.net.URL;
  *
  * @author Josh Long
  */
-interface PubsubHubbubClient {
+public interface PubsubHubbubClient {
 
 	public enum Verify {
 
