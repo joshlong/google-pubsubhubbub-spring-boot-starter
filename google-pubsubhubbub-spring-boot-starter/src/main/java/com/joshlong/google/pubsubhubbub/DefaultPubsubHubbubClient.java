@@ -15,8 +15,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Provides an integration with the Google Pub/sub Hubbub broker. This is useful when, for example, you want to register for
- * notifications from the Youtube Data API.
+ * Provides an integration with the Google Pub/sub Hubbub broker. This is useful when, for
+ * example, you want to register for notifications from the Youtube Data API.
  *
  * @author Josh Long
  */
